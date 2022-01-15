@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "flatris",
+  "name": "react-tetris-game",
   "license": "MIT",
   "description": "A fast-paced two-player web game",
   "repository": {
